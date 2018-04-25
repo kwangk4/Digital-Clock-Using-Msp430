@@ -9,4 +9,14 @@ Nguyen Van Quang: Digital clock part
 
 Nguyen Chi Hiep: Schematic & Layout part
 
+=========================================
+
+
+Demo link: 
+
+
+  - Snake part: https://www.youtube.com/watch?v=-ExA5j4I0Yk
+  
+  
+  - Digital clock part: https://www.youtube.com/watch?v=hSeXmxvUOVk
 
